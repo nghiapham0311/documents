@@ -4,7 +4,7 @@
 
 ![Architecture Diagram 1](1.png)
 ![Architecture Diagram 2](2.png)
-![Application Gateway Notes](3.png)
+![Application Gateway Notes](3.jpg)
 
 - **Reverse-proxy L7 (NodeJs, Python)**  
   - **Benefits**: Manage the endpoint by code
